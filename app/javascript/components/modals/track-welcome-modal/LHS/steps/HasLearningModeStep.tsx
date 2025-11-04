@@ -36,7 +36,6 @@ export function HasLearningModeStep({
             trackTitle: track.title,
           })}
         </span>{' '}
-        (You can always change later.)
       </p>
 
       <div className="grid grid-cols-2 gap-12 items-center">
